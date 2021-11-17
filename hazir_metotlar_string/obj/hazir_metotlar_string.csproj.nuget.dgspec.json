@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\hazir_metotlar_string\\hazir_metotlar_string.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\hazir_metotlar_string\\hazir_metotlar_string.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\hazir_metotlar_string\\hazir_metotlar_string.csproj",
+        "projectName": "hazir_metotlar_string",
+        "projectPath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\hazir_metotlar_string\\hazir_metotlar_string.csproj",
+        "packagesPath": "C:\\Users\\volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\hazir_metotlar_string\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\volkan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
